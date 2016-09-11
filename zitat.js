@@ -48,6 +48,7 @@ var zitate = [
 	"\"Kas praktikumi töid saab veel tuua?\" \"Tuut! Rong sõitis minema.\"",
 	"Kui ei ole mõtet, siis hakkavad mängima põhimõtted",
 	">>> Siin võiks seista Sinu pakutud Madis Reemanni tsitaat <<<",
+	"Saate aru… Ära karju lapse peale, peksa teda."
 ];
 
 var timer = null;
